@@ -5,6 +5,11 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b0f1876e-f4b9-4dca-9c35-0002f04d925d"
+      }
+    }
   }
 }
